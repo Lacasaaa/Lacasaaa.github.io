@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thank you</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Karla:wght@500&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+    <style>
+      *{
+        font-family: 'Poppins', sans-serif;
+        background: #dff1ff;
+      }
+      .button3 {
+  display: inline-block;
+  margin-right: 10px;
+  background: #339DFF;
+  color: #fff;
+  text-decoration: none;
+  font-size: 13px;
+  line-height: 38px;
+  border-radius: 50px;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  width: 170px;
+  text-align: center;
+}
+
+.button3:hover {
+  background: #fff;
+  color: #339DFF;
+  box-shadow: 0 4px 4px rgba(83, 100, 255, 0.32);
+}
+    </style>
+</head>
+<body>
+<center>
+<div style="align-content: center" class="containerz">
+    <h1 class="thankyou">Thank you for voting!</h1>
+    <p class="ref">Voting Reference No.: </p>
+    <p class="ref" id="numberz"></p>
+    <a href="https://www.change.org/petitions?selected=popular_weekly"><button type="button" class="button3">HOMEPAGE</button></a>
+</div>
+</center>
+    
+    
+    
+    <script>
+            document.getElementById("numberz").innerHTML =
+            Math.floor(Math.random() * 1000);        
+    </script>
+</body>
+</html>
