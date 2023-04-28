@@ -1,0 +1,176 @@
+html{line-height:1.15;-webkit-text-size-adjust:100%;}/*!sc*/
+body{margin:0;}/*!sc*/
+main{display:block;}/*!sc*/
+h1{font-size:2em;margin:0.67em 0;}/*!sc*/
+hr{box-sizing:content-box;height:0;overflow:visible;}/*!sc*/
+pre{font-family:monospace,monospace;font-size:1em;}/*!sc*/
+a{background-color:transparent;}/*!sc*/
+abbr[title]{border-bottom:none;-webkit-text-decoration:underline;text-decoration:underline;-webkit-text-decoration:underline dotted;text-decoration:underline dotted;}/*!sc*/
+b,strong{font-weight:bolder;}/*!sc*/
+code,kbd,samp{font-family:monospace,monospace;font-size:1em;}/*!sc*/
+small{font-size:80%;}/*!sc*/
+sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline;}/*!sc*/
+sub{bottom:-0.25em;}/*!sc*/
+sup{top:-0.5em;}/*!sc*/
+img{border-style:none;}/*!sc*/
+button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0;}/*!sc*/
+button,input{overflow:visible;}/*!sc*/
+button,select{text-transform:none;}/*!sc*/
+button,[type="button"],[type="reset"],[type="submit"]{-webkit-appearance:button;}/*!sc*/
+button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner{border-style:none;padding:0;}/*!sc*/
+button:-moz-focusring,[type="button"]:-moz-focusring,[type="reset"]:-moz-focusring,[type="submit"]:-moz-focusring{outline:1px dotted ButtonText;}/*!sc*/
+fieldset{padding:0.35em 0.75em 0.625em;}/*!sc*/
+legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal;}/*!sc*/
+progress{vertical-align:baseline;}/*!sc*/
+textarea{overflow:auto;}/*!sc*/
+[type="checkbox"],[type="radio"]{box-sizing:border-box;padding:0;}/*!sc*/
+[type="number"]::-webkit-inner-spin-button,[type="number"]::-webkit-outer-spin-button{height:auto;}/*!sc*/
+[type="search"]{-webkit-appearance:textfield;outline-offset:-2px;}/*!sc*/
+[type="search"]::-webkit-search-decoration{-webkit-appearance:none;}/*!sc*/
+::-webkit-file-upload-button{-webkit-appearance:button;font:inherit;}/*!sc*/
+details{display:block;}/*!sc*/
+summary{display:list-item;}/*!sc*/
+template{display:none;}/*!sc*/
+[hidden]{display:none;}/*!sc*/
+*,*::before,*::after{box-sizing:border-box;}/*!sc*/
+body{font-family:"Helvetica Neue",Helvetica,Arial,Tahoma,sans-serif;font-size:16px;line-height:1.5;color:#000000;}/*!sc*/
+.type-loaded{font-family:Change Calibre,"Helvetica Neue",Helvetica,Arial,Tahoma,sans-serif;}/*!sc*/
+ol,ul{margin:0;padding:0;list-style-type:none;}/*!sc*/
+a{color:inherit;cursor:pointer;-webkit-text-decoration:underline;text-decoration:underline;}/*!sc*/
+a:active:{outline:none;}/*!sc*/
+p{margin:0;}/*!sc*/
+data-styled.g3[id="sc-global-gRIlhM1"]{content:"sc-global-gRIlhM1,"}/*!sc*/
+.WXSxl{height:47px;margin-left:auto;margin-right:auto;padding-left:10px;padding-right:10px;}/*!sc*/
+@media screen and (min-width:768px){.WXSxl{height:57px;width:740px;}}/*!sc*/
+@media screen and (min-width:992px){.WXSxl{width:960px;}}/*!sc*/
+.kPvXKx{display:none;}/*!sc*/
+@media screen and (min-width:992px){.kPvXKx{display:block;}}/*!sc*/
+@media screen and (min-width:768px){.kSFjpy{min-height:calc(100vh - 400px);}}/*!sc*/
+.lgkPLc{padding-left:0;padding-right:0;margin-left:auto;margin-right:auto;}/*!sc*/
+@media screen and (min-width:768px){.lgkPLc{width:740px;}}/*!sc*/
+@media screen and (min-width:992px){.lgkPLc{width:960px;}}/*!sc*/
+.hZVLqH{background-color:#f6f4f6;padding-bottom:20px;padding-top:20px;}/*!sc*/
+@media screen and (min-width:768px){.hZVLqH{padding-top:10px;padding-bottom:10px;}}/*!sc*/
+.eugEjV{margin-left:auto;margin-right:auto;padding-left:15px;padding-right:15px;}/*!sc*/
+@media screen and (min-width:768px){.eugEjV{width:740px;}}/*!sc*/
+@media screen and (min-width:992px){.eugEjV{width:960px;}}/*!sc*/
+@media screen and (min-width:768px){.eugEjV{padding-left:10px;padding-right:10px;}}/*!sc*/
+.drIZbl{display:block;margin-top:20px;}/*!sc*/
+@media screen and (min-width:768px){.drIZbl{display:none;}}/*!sc*/
+.dODxcq{width:100%;margin-top:0.3125em;}/*!sc*/
+.hnLhVa{display:none;}/*!sc*/
+@media screen and (min-width:768px){.hnLhVa{display:block;}}/*!sc*/
+data-styled.g4[id="corgi__sc-10n87q0-0"]{content:"cRHwTT,WXSxl,kPvXKx,kSFjpy,lgkPLc,hZVLqH,eugEjV,drIZbl,dODxcq,hnLhVa,"}/*!sc*/
+.bYGJEM{margin:0;width:calc(100% + 24px);bottom:-5px;left:-12px;}/*!sc*/
+.gNPnKX{margin:0;width:100%;bottom:-5px;left:0;}/*!sc*/
+data-styled.g5[id="corgi__sc-1rc52l7-0"]{content:"cInxaP,bYGJEM,gNPnKX,"}/*!sc*/
+.fhpiOV{position:absolute;}/*!sc*/
+data-styled.g6[id="corgi__sc-1rc52l7-1"]{content:"fhpiOV,"}/*!sc*/
+.cTxEtr{position:relative;}/*!sc*/
+data-styled.g8[id="corgi__sc-1rc52l7-3"]{content:"cTxEtr,"}/*!sc*/
+.bAAGKU{font-size:1rem;line-height:43px;}/*!sc*/
+.klcotf{font-size:0.8rem;color:#737273;}/*!sc*/
+data-styled.g10[id="corgi__sc-1vwpmw7-0"]{content:"bAAGKU,klcotf,"}/*!sc*/
+.hFHgHq{margin-top:0;margin-bottom:0;border:none;border-bottom-color:#dbd9db;border-bottom-width:1px;border-bottom-style:solid;}/*!sc*/
+.fEhflk{width:calc(100% + 24px);margin:0;border:none;border-bottom-color:#dbd9db;border-bottom-width:2px;border-bottom-style:solid;}/*!sc*/
+.hoEkoh{width:100%;margin:0;border:none;border-bottom-color:#dbd9db;border-bottom-width:2px;border-bottom-style:solid;}/*!sc*/
+.kqOXGC{margin:0;border:none;border-bottom-color:#dbd9db;border-bottom-width:2px;border-bottom-style:solid;}/*!sc*/
+.cYDmD{margin-bottom:20px;margin-top:30px;border:none;border-bottom-color:#dbd9db;border-bottom-width:1px;border-bottom-style:solid;}/*!sc*/
+@media screen and (min-width:768px){.cYDmD{margin-top:25px;}}/*!sc*/
+data-styled.g11[id="corgi__sc-1m7h2en-0"]{content:"hFHgHq,fEhflk,hoEkoh,kqOXGC,cYDmD,"}/*!sc*/
+.ygSDl{height:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}/*!sc*/
+.ybSut{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;height:100%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}/*!sc*/
+.FQOJT{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}/*!sc*/
+.jnEtcF{-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;margin-left:-10px;margin-right:-10px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}/*!sc*/
+@media screen and (min-width:768px){.jnEtcF{-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;}}/*!sc*/
+.gMjqMn{-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;margin-left:-10px;margin-right:-10px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}/*!sc*/
+.gihpcT{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;}/*!sc*/
+data-styled.g13[id="corgi__sc-p6yu06-0"]{content:"ygSDl,ybSut,FQOJT,jnEtcF,gMjqMn,gihpcT,"}/*!sc*/
+.kIIeAs{-webkit-flex:1;-ms-flex:1;flex:1;}/*!sc*/
+.iGDcMl{margin-right:40px;}/*!sc*/
+.ceyote{margin-right:25px;}/*!sc*/
+.hOdkpA{padding-left:10px;padding-right:10px;}/*!sc*/
+.kWTTNk{-webkit-flex:1;-ms-flex:1;flex:1;margin-top:0;}/*!sc*/
+@media screen and (min-width:768px){.kWTTNk{-webkit-flex:3;-ms-flex:3;flex:3;}}/*!sc*/
+@media screen and (min-width:768px){.kWTTNk{margin-top:10px;}}/*!sc*/
+.jQDknx{-webkit-flex:0;-ms-flex:0;flex:0;padding-left:25px;}/*!sc*/
+@media screen and (min-width:768px){.jQDknx{-webkit-flex:1;-ms-flex:1;flex:1;}}/*!sc*/
+data-styled.g14[id="corgi__sc-p6yu06-1"]{content:"kIIeAs,iGDcMl,ceyote,cQsnbz,hOdkpA,kWTTNk,jQDknx,"}/*!sc*/
+@media screen and (min-width:768px){.eAKDOi{width:50%;}}/*!sc*/
+.ipYocU{width:50%;}/*!sc*/
+data-styled.g16[id="corgi__sc-1m6tsrl-0"]{content:"eAKDOi,ipYocU,"}/*!sc*/
+.skfMK{border-color:#dbd9db;border-width:1px;border-radius:5px;border-style:solid;}/*!sc*/
+data-styled.g17[id="corgi__sc-1aimp2k-0"]{content:"skfMK,"}/*!sc*/
+.bRBuwy{display:block;}/*!sc*/
+.bRBuwy:focus-within{border-color:#737273;outline:none;}/*!sc*/
+data-styled.g21[id="corgi__sc-1sclmv6-2"]{content:"bRBuwy,"}/*!sc*/
+.hwLVQn{display:block;width:100%;border:none;border-radius:5px;font-size:1rem;line-height:normal;padding:10px;color:#000000;-webkit-appearance:none;height:2.5rem;font-size:1rem;padding:0 10px;border:0;-webkit-appearance:menulist;font-size:0.8rem;}/*!sc*/
+.hwLVQn:focus,.hwLVQn.input-focused{border-color:#737273;outline:none;}/*!sc*/
+.hwLVQn::-webkit-input-placeholder{color:#adacad;}/*!sc*/
+.hwLVQn::-moz-placeholder{color:#adacad;}/*!sc*/
+.hwLVQn:-ms-input-placeholder{color:#adacad;}/*!sc*/
+.hwLVQn::placeholder{color:#adacad;}/*!sc*/
+.hwLVQn:focus,.hwLVQn.input-focused{border-color:#737273;outline:none;}/*!sc*/
+data-styled.g23[id="corgi__sc-1sclmv6-4"]{content:"hwLVQn,"}/*!sc*/
+.kMJXjA{margin:0;padding:0;list-style-type:none;}/*!sc*/
+data-styled.g27[id="corgi__sc-rkz3gy-0"]{content:"kMJXjA,"}/*!sc*/
+.bOnetF{padding-top:5px;padding-bottom:5px;}/*!sc*/
+data-styled.g28[id="corgi__sc-rkz3gy-1"]{content:"bOnetF,drreSV,"}/*!sc*/
+.dvfVTL > li{margin-left:0.5em;vertical-align:middle;display:inline-block;}/*!sc*/
+.dvfVTL > li:first-of-type{margin-left:0;}/*!sc*/
+data-styled.g32[id="corgi__sc-rkz3gy-5"]{content:"dvfVTL,"}/*!sc*/
+.cdPhKI{color:#E01A2B;-webkit-text-decoration:underline;text-decoration:underline;cursor:pointer;padding:0;background:none;border:0;display:inline-block;height:100%;}/*!sc*/
+.cdPhKI:hover{color:#000000;}/*!sc*/
+.cdPhKI label{cursor:pointer;}/*!sc*/
+.YQoDt{color:#E01A2B;-webkit-text-decoration:underline;text-decoration:underline;cursor:pointer;padding:0;background:none;border:0;display:inline-block;padding-left:12px;padding-right:12px;margin-top:3px;margin-bottom:3px;}/*!sc*/
+.YQoDt:hover{color:#000000;}/*!sc*/
+.YQoDt label{cursor:pointer;}/*!sc*/
+.eMnmbY{color:#E01A2B;-webkit-text-decoration:underline;text-decoration:underline;cursor:pointer;padding:0;background:none;border:0;}/*!sc*/
+.eMnmbY:hover{color:#000000;}/*!sc*/
+.eMnmbY label{cursor:pointer;}/*!sc*/
+.eMnmbY:focus{outline:2px solid #dbd9db;outline-color:hsla(305,6%,22%,0.185);outline-offset:1px;}/*!sc*/
+.eMnmbY:active{outline:none;}/*!sc*/
+data-styled.g35[id="corgi__sc-1fflt50-0"]{content:"cdPhKI,YQoDt,eMnmbY,"}/*!sc*/
+.hryNVG{color:inherit;-webkit-text-decoration:underline;text-decoration:underline;}/*!sc*/
+.hryNVG:hover{color:#E01A2B;}/*!sc*/
+data-styled.g37[id="corgi__sc-1fflt50-2"]{content:"hryNVG,"}/*!sc*/
+.jmafYL{color:inherit;-webkit-text-decoration:none;text-decoration:none;}/*!sc*/
+.jmafYL:hover{color:#E01A2B;}/*!sc*/
+data-styled.g38[id="corgi__sc-1fflt50-3"]{content:"jmafYL,"}/*!sc*/
+.cyaCkn{margin-top:25px;margin-bottom:10px;margin-left:0;margin-right:0;color:#737273;-webkit-letter-spacing:1.872px;-moz-letter-spacing:1.872px;-ms-letter-spacing:1.872px;letter-spacing:1.872px;text-transform:uppercase;font-size:0.8rem;font-weight:bold;line-height:1.1;}/*!sc*/
+data-styled.g41[id="corgi__sc-1p9fr02-0"]{content:"cyaCkn,"}/*!sc*/
+.eIcMzF{font-size:1.4rem;color:#E01A2B;}/*!sc*/
+@media screen and (min-width:768px){.eIcMzF{font-size:1.75rem;}}/*!sc*/
+data-styled.g55[id="corgi__sc-aauoja-0"]{content:"eIcMzF,"}/*!sc*/
+.IRnJC{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;-webkit-text-decoration:none;text-decoration:none;color:#000000;display:inline-block;font-weight:bold;text-align:center;line-height:1;border-radius:5px;border-style:solid;border-width:2px;border-color:#adacad;background-color:transparent;-webkit-tap-highlight-color:hsla(0,0%,0%,0);-webkit-appearance:initial !important;-webkit-transition:background 0.1s ease,border 0.1s ease;transition:background 0.1s ease,border 0.1s ease;cursor:pointer;padding:0;outline:0;padding:8px 16px;font-size:0.8rem;}/*!sc*/
+.IRnJC:focus{-webkit-text-decoration:underline;text-decoration:underline;outline:0;}/*!sc*/
+.IRnJC:hover{border-color:#737273;}/*!sc*/
+.IRnJC:active{background:hsla(305,11%,23%,0.05);color:#000000;-webkit-text-decoration:none;text-decoration:none;border-color:#737273;}/*!sc*/
+.IRnJC:disabled,.IRnJC:disabled:hover{background:#dbd9db;color:#adacad;-webkit-filter:none;filter:none;cursor:default;border-color:#dbd9db;}/*!sc*/
+data-styled.g57[id="corgi__sc-140l2f3-0"]{content:"IRnJC,"}/*!sc*/
+.kgYyNt{-webkit-font-smoothing:auto;background:none;border-color:transparent;color:#E01A2B;-webkit-text-decoration:underline;text-decoration:underline;}/*!sc*/
+.kgYyNt:hover{color:#000000;border-color:transparent;}/*!sc*/
+.kgYyNt:focus{outline:2px solid #dbd9db;outline-color:hsla(305,6%,22%,0.185);}/*!sc*/
+.kgYyNt:active{color:#000000;background:none;-webkit-text-decoration:underline;text-decoration:underline;border-color:transparent;outline:none;}/*!sc*/
+data-styled.g62[id="corgi__sc-140l2f3-5"]{content:"kgYyNt,"}/*!sc*/
+.hbsJvI{position:absolute;z-index:10;left:0;top:-1000px;outline:none;background-color:white;border-radius:5px;border:1px solid #dbd9db;padding:15px 30px;margin:5px;}/*!sc*/
+.hbsJvI:focus{top:0px;outline:none;}/*!sc*/
+.hbsJvI:hover{border-color:#dbd9db;}/*!sc*/
+.hbsJvI:active{border-color:#dbd9db;background-color:white;}/*!sc*/
+data-styled.g66[id="corgi__sc-1f6ln70-0"]{content:"hbsJvI,"}/*!sc*/
+body{padding:0;margin:0;font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;}/*!sc*/
+[inert],[inert] *{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;}/*!sc*/
+[inert]{pointer-events:none;cursor:default;}/*!sc*/
+[data-font="new"]{font-family:"Noto Sans","Helvetica Neue",Helvetica,Arial,Tahoma,sans-serif;}/*!sc*/
+data-styled.g67[id="sc-global-kAnHgi1"]{content:"sc-global-kAnHgi1,"}/*!sc*/
+.eakwgC{border-bottom-color:#E01A2B;}/*!sc*/
+.bmrdLq{border-bottom-color:transparent;}/*!sc*/
+data-styled.g81[id="corgi__sc-1xm9095-0"]{content:"eakwgC,bmrdLq,"}/*!sc*/
+.hmBWzH{color:#E01A2B;}/*!sc*/
+.ekswgU{color:inherit;}/*!sc*/
+data-styled.g82[id="corgi__sc-1xm9095-1"]{content:"hmBWzH,ekswgU,"}/*!sc*/
+.ishpRz{white-space:nowrap;overflow-x:auto;overflow-y:hidden;}/*!sc*/
+.ishpRz::-webkit-scrollbar{display:none;}/*!sc*/
+data-styled.g83[id="corgi__sc-bxkadp-0"]{content:"ishpRz,"}/*!sc*/
+@font-face{font-family:"Change Calibre";src:url("https://static.change.org/fonts/Change-Calibre-Regular.woff2") format("woff2"),url("https://static.change.org/fonts/Change-Calibre-Regular.woff") format("woff"),url("https://static.change.org/fonts/Change-Calibre-Regular.ttf.gz") format("truetype");font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:"Change Calibre";src:url("https://static.change.org/fonts/Change-Calibre-Bold.woff2") format("woff2"),url("https://static.change.org/fonts/Change-Calibre-Bold.woff") format("woff"),url("https://static.change.org/fonts/Change-Calibre-Bold.ttf.gz") format("truetype");font-weight:700;font-style:normal;font-display:swap}@font-face{font-family:'Noto Sans';font-style:italic;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0OIpQlx3QUlC5A4PNr4ARPQ_mu72BiBLE.woff2) format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{font-family:'Noto Sans';font-style:italic;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0OIpQlx3QUlC5A4PNr4ARGQ_mu72BiBLE.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:'Noto Sans';font-style:italic;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0OIpQlx3QUlC5A4PNr4ARDQ_mu72BiBLE.woff2) format('woff2');unicode-range:U+0900-097F,U+1CD0-1CF6,U+1CF8-1CF9,U+200C-200D,U+20A8,U+20B9,U+25CC,U+A830-A839,U+A8E0-A8FB}@font-face{font-family:'Noto Sans';font-style:italic;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0OIpQlx3QUlC5A4PNr4AROQ_mu72BiBLE.woff2) format('woff2');unicode-range:U+1F00-1FFF}@font-face{font-family:'Noto Sans';font-style:italic;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0OIpQlx3QUlC5A4PNr4ARBQ_mu72BiBLE.woff2) format('woff2');unicode-range:U+0370-03FF}@font-face{font-family:'Noto Sans';font-style:italic;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0OIpQlx3QUlC5A4PNr4ARNQ_mu72BiBLE.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Noto Sans';font-style:italic;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0OIpQlx3QUlC5A4PNr4ARMQ_mu72BiBLE.woff2) format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Noto Sans';font-style:italic;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0OIpQlx3QUlC5A4PNr4ARCQ_mu72Bi.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Noto Sans';font-style:italic;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0TIpQlx3QUlC5A4PNr4AydZ-yOzW1IPriezag.woff2) format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{font-family:'Noto Sans';font-style:italic;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0TIpQlx3QUlC5A4PNr4AydZ-yHzW1IPriezag.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:'Noto Sans';font-style:italic;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0TIpQlx3QUlC5A4PNr4AydZ-yCzW1IPriezag.woff2) format('woff2');unicode-range:U+0900-097F,U+1CD0-1CF6,U+1CF8-1CF9,U+200C-200D,U+20A8,U+20B9,U+25CC,U+A830-A839,U+A8E0-A8FB}@font-face{font-family:'Noto Sans';font-style:italic;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0TIpQlx3QUlC5A4PNr4AydZ-yPzW1IPriezag.woff2) format('woff2');unicode-range:U+1F00-1FFF}@font-face{font-family:'Noto Sans';font-style:italic;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0TIpQlx3QUlC5A4PNr4AydZ-yAzW1IPriezag.woff2) format('woff2');unicode-range:U+0370-03FF}@font-face{font-family:'Noto Sans';font-style:italic;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0TIpQlx3QUlC5A4PNr4AydZ-yMzW1IPriezag.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Noto Sans';font-style:italic;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0TIpQlx3QUlC5A4PNr4AydZ-yNzW1IPriezag.woff2) format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Noto Sans';font-style:italic;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0TIpQlx3QUlC5A4PNr4AydZ-yDzW1IPrie.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Noto Sans';font-style:italic;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0TIpQlx3QUlC5A4PNr4Az5ZuyOzW1IPriezag.woff2) format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{font-family:'Noto Sans';font-style:italic;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0TIpQlx3QUlC5A4PNr4Az5ZuyHzW1IPriezag.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:'Noto Sans';font-style:italic;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0TIpQlx3QUlC5A4PNr4Az5ZuyCzW1IPriezag.woff2) format('woff2');unicode-range:U+0900-097F,U+1CD0-1CF6,U+1CF8-1CF9,U+200C-200D,U+20A8,U+20B9,U+25CC,U+A830-A839,U+A8E0-A8FB}@font-face{font-family:'Noto Sans';font-style:italic;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0TIpQlx3QUlC5A4PNr4Az5ZuyPzW1IPriezag.woff2) format('woff2');unicode-range:U+1F00-1FFF}@font-face{font-family:'Noto Sans';font-style:italic;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0TIpQlx3QUlC5A4PNr4Az5ZuyAzW1IPriezag.woff2) format('woff2');unicode-range:U+0370-03FF}@font-face{font-family:'Noto Sans';font-style:italic;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0TIpQlx3QUlC5A4PNr4Az5ZuyMzW1IPriezag.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Noto Sans';font-style:italic;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0TIpQlx3QUlC5A4PNr4Az5ZuyNzW1IPriezag.woff2) format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Noto Sans';font-style:italic;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0TIpQlx3QUlC5A4PNr4Az5ZuyDzW1IPrie.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0IIpQlx3QUlC5A4PNr6DRASf6M7VBj.woff2) format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0IIpQlx3QUlC5A4PNr4TRASf6M7VBj.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0IIpQlx3QUlC5A4PNr5DRASf6M7VBj.woff2) format('woff2');unicode-range:U+0900-097F,U+1CD0-1CF6,U+1CF8-1CF9,U+200C-200D,U+20A8,U+20B9,U+25CC,U+A830-A839,U+A8E0-A8FB}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0IIpQlx3QUlC5A4PNr6TRASf6M7VBj.woff2) format('woff2');unicode-range:U+1F00-1FFF}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0IIpQlx3QUlC5A4PNr5jRASf6M7VBj.woff2) format('woff2');unicode-range:U+0370-03FF}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0IIpQlx3QUlC5A4PNr6jRASf6M7VBj.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0IIpQlx3QUlC5A4PNr6zRASf6M7VBj.woff2) format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0IIpQlx3QUlC5A4PNr5TRASf6M7Q.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjOhBVadyBx2pqPIif.woff2) format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjOhBVYNyBx2pqPIif.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjOhBVZdyBx2pqPIif.woff2) format('woff2');unicode-range:U+0900-097F,U+1CD0-1CF6,U+1CF8-1CF9,U+200C-200D,U+20A8,U+20B9,U+25CC,U+A830-A839,U+A8E0-A8FB}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjOhBVaNyBx2pqPIif.woff2) format('woff2');unicode-range:U+1F00-1FFF}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjOhBVZ9yBx2pqPIif.woff2) format('woff2');unicode-range:U+0370-03FF}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjOhBVa9yBx2pqPIif.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjOhBVatyBx2pqPIif.woff2) format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:600;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjOhBVZNyBx2pqPA.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjXhFVadyBx2pqPIif.woff2) format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjXhFVYNyBx2pqPIif.woff2) format('woff2');unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjXhFVZdyBx2pqPIif.woff2) format('woff2');unicode-range:U+0900-097F,U+1CD0-1CF6,U+1CF8-1CF9,U+200C-200D,U+20A8,U+20B9,U+25CC,U+A830-A839,U+A8E0-A8FB}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjXhFVaNyBx2pqPIif.woff2) format('woff2');unicode-range:U+1F00-1FFF}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjXhFVZ9yBx2pqPIif.woff2) format('woff2');unicode-range:U+0370-03FF}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjXhFVa9yBx2pqPIif.woff2) format('woff2');unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+1EA0-1EF9,U+20AB}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjXhFVatyBx2pqPIif.woff2) format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Noto Sans';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/notosans/v27/o-0NIpQlx3QUlC5A4PNjXhFVZNyBx2pqPA.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}</style>
+		
